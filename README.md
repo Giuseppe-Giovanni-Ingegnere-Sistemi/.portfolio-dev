@@ -1,6 +1,5 @@
- > .[!NOTE]. 
- >Este es mi portafolio personal, sigue en desarrollo
-
+> .[!NOTE].
+> Este proyecto continua en desarrollo
 
 # Astro Starter Kit: Basics
 
