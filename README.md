@@ -1,4 +1,4 @@
-> .[!NOTE].
+>.[!NOTE].
 > Este proyecto continua en desarrollo
 
 # Astro Starter Kit: Basics
