@@ -1,5 +1,5 @@
->.[!NOTE].
-> Este proyecto continua en desarrollo
+>[!IMPORTANT]
+>ESTE NO ES UN SIMULADOR REAL Y FUNCIONAL, SOLO MUESTRA EN UN DIAGRAMA DE MATRICES COMO ES EL TRASPASO DE DATOS
 
 # Astro Starter Kit: Basics
 
